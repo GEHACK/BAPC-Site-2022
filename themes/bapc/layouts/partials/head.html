@@ -1,0 +1,14 @@
+<head>
+  <title>{{ $url := replace .Permalink ( printf "%s" site.BaseURL) "" }}
+    {{ if eq $url "" }}
+    {{ site.Title }}
+    {{ else }}
+    {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ site.Title }} - {{ .Title }} {{ end }}
+    {{ end }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <style media="screen">
+    {{
+      partial "css/main.css" . | safeCSS
+    }}
+  </style>
+</head>

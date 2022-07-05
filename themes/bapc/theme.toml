@@ -1,0 +1,10 @@
+name = "BAPC Theme"
+description = "Theme used for BAPC 2022"
+homepage = "https://bapc.eu"
+tags = ["website", "starter", "responsive", "taxonomy", "icpc", "bapc", "bapc22", "bapc2022"]
+features = ["posts", "shortcodes", "related content", "comments"]
+min_version = "0.30.2"
+
+[author]
+	name = "Kevin Jilissen"
+	homepage = "https://github.com/kevinjil"

@@ -16,9 +16,10 @@ In addition to the ICPC rules, the following local rules also apply:
 A student may compete when eligible according to the [2021 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1E9yaQbpSu9059UrOYafAiNrH-ABgRDAW/view).
 
 - A team consists of 3 eligible students.
-- An educational institution may send up to two teams.
 - The educational institutions must be from one of the region member countries. By special request teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
 - All teams who want to participate have to check-in at the registration desk. The location of the registration desk and the office hours will be announced to the participants in advance.
+
+The precise allocation of teams per educational institution is still to be determined. Every educational institution will be able to send at least two teams.
 
 ## Contest Material
 

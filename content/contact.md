@@ -19,15 +19,17 @@ If you have any questions, please drop us an email at: organization "at" bapc "d
 
 ## Local committee
 
+Mentioned in alphabetical order:
+
 - Wietske de Bondt
-- Samuel Oosterholt
-- Rick Wouters
-- Bartjan Henkemans
 - Jasper Dellaert
-- Juul Peters
-- Kati Overbeeke
+- Pieter Ebbers
+- Nicky Gerritsen
+- Bartjan Henkemans
 - Kevin Jilissen
 - Lotte Lakeman
+- Samuel Oosterholt
+- Kati Overbeeke
+- Juul Peters
 - Mart Pluijmaekers
-- Nicky Gerritsen
-- Pieter Ebbers
+- Rick Wouters

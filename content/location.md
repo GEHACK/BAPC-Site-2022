@@ -11,13 +11,6 @@ The BAPC 2022 will be held at the Eindhoven University of Technology, Netherland
 
 ## To Eindhoven
 
-### By air
-
-When traveling by plane, there are roughly 2 options. The first is to fly to Amsterdam and then take the train. The second is to fly to Eindhoven airport directly. Many (budget) airlines fly into either or both airports from many places around Europe.
-Flying into Eindhoven airport, a busride is required to reach the city center. Buses to and from the airport (lines 400 and 401) leave every 15 minutes from the Eindhoven central train station.
-
-Travel from Amsterdam (Schiphol airport) is also very easy. A train station is attached right to the airport, with service towards Eindhoven leaving very often, up to every 10 minutes depending on the time of day. The cost of a single ticket is around €20,- but off-peak group travel is [heavily discounted](https://www.ns.nl/producten/en/meest-gekocht/p/groepsticket-daluren).
-
 ### By train
 
 The Dutch train network is quite well connected to the Belgian and German networks, but it is not very cheap to travel alone. For group travel - in off-peak hours - use a [group ticket](https://www.ns.nl/producten/en/meest-gekocht/p/groepsticket-daluren) for more affordable pricing.

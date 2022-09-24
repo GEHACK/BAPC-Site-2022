@@ -8,3 +8,5 @@ draft: false
 # Registration
 
 More information about registrations will follow.
+
+## Preliminaries

@@ -15,7 +15,14 @@ If you have any questions, please drop us an email at: organization "at" bapc "d
 
 ## Jury
 
-- To be announced
+- Boas Kluiving
+- Jorke de Vlas
+- Ludo Pulles
+- Maarten Sijm
+- Ragnar Groot Koerkamp
+- Reinier Schmiermann
+- Ruben Brokkelkamp
+- Wessel van Woerden
 
 ## Local committee
 

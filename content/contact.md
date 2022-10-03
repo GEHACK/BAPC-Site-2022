@@ -7,7 +7,7 @@ sections_weight: 10
 
 # Contact
 
-If you have any questions, please drop us an email at: organization "at" bapc "dot" eu
+If you have any questions, please drop us an email at: gehack@gewis.nl
 
 ## Contest director
 

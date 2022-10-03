@@ -13,8 +13,8 @@ draft: false
 1. We (Eindhoven) will accept teams from each preliminary based on the following rules:
     * The maximum number of teams (50) will not be exceeded.
     * Every institution will be guaranteed two teams
-    * Third teams will be granted as long as we do not exceed the maximum number of teams. If the maximum number of teams is exceeded, the third teams will be accepted based on subregional performance, i.e. the best performing third team from all preliminaries will be first accepted, afterwards the second-best performing third team, etc.
-    * Fourth (and possibly more teams) will be awarded based on subregional performance.
+    * Third teams will be granted as long as we do not exceed the maximum number of teams. If the maximum number of teams is exceeded, the third teams will be accepted based on preliminary performance, i.e. the best performing third team from all preliminaries will be first accepted, afterwards the second-best performing third team, etc.
+    * Fourth (and possibly more teams) will be awarded based on preliminary performance.
     * No (n+1)-th team will be awarded when a different eligible institution has not yet been awarded an n-th team.
 
 Note: if your city didn’t organize a preliminary, you can register teams for the BAPC directly. The same rules for acceptance will hold. 

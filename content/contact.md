@@ -9,7 +9,7 @@ sections_weight: 10
 
 If you have any questions, please drop us an email at: organization "at" bapc "dot" eu
 
-## Contest direction
+## Contest director
 
 - Wietske de Bondt
 

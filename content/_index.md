@@ -10,5 +10,5 @@ If you have any questions, please [contact us](/contact).
 
 - [Preliminaries problems](/prelimenaries/problems.pdf)
 - [Preliminaries solutions](/prelimenaries/solutions.pdf)
-- [Preliminaries testdata and solutions (70MB)](https://commissies.ch.tudelft.nl/chipcie/archive/2022/dapc/solutions.zip)
+- [Preliminaries testdata and solutions (115MB)](https://commissies.ch.tudelft.nl/chipcie/archive/2022/dapc/solutions.zip)
 - [Preliminaries scoreboard](/prelimenaries/scoreboard.html)

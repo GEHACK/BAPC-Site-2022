@@ -6,6 +6,8 @@ draft: false
 ---
 
 The BAPC 2022 will be held at the Eindhoven University of Technology, Netherlands.
+All events will happen in the Auditorium building. See [this map](https://assets.tue.nl/fileadmin/tue/Afbeeldingen/TUe_Map_2022.pdf)
+for an overview of the TU/e campus. The Auditorium is on the left in the middle of the map.
 
 # Travel
 

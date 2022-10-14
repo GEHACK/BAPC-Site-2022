@@ -9,7 +9,7 @@ draft: false
 During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system.
 
 # Image
-The image is based on Ubuntu 22.04 LTS, the following programs/tools are installed. The machines you will be working on are HP 450 G8 15.6 inch FHD laptop Laptops.
+The image is based on Ubuntu 22.04 LTS, the following programs/tools are installed. The machines you will be working on are HP 450 G8 15.6 inch FHD laptops.
 
 ## Compilation of submissions
 Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:

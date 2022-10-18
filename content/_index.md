@@ -2,7 +2,7 @@
 
 Welcome to the website of the BAPC 2022.
 
-[Registration](/registration) is now open!
+Registration is now closed, teams should have been notified whether they are accepted at BAPC.
 
 If you have any questions, please [contact us](/contact).
 

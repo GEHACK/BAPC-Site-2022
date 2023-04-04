@@ -2,7 +2,9 @@
 
 Welcome to the website of the BAPC 2022.
 
-Registration is now closed, teams should have been notified whether they are accepted at BAPC.
+The contest is over. Thank you for participating! 
+
+Pictures can be downloaded here: [BAPC 2022 Pictures (zip file, 660 MiB)](https://gehack.nl/BAPC2022/Pictures.zip)
 
 If you have any questions, please [contact us](/contact).
 
